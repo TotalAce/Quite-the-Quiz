@@ -1,0 +1,10 @@
+* {
+box-sizing: border-box;
+
+}
+body {
+    color:  rgb(255, 212, 128);
+    font-family:'Special Elite', cursive;
+    background-image: url("./photos/old-and-worn-parchment-paper.jpg");
+}
+
